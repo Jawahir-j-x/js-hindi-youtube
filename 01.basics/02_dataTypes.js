@@ -1,30 +1,34 @@
-"use strick " //treat all Js code as newer version
-// alert( 3 + 3) we are usin nodejs, not browser
+"use srtick"; // treat all JS code as newer version
 
-console.log(3
-     + 
-     3) // code readability  should be high
+// alert = ( 3 + 3) // we are using nodejs, not brower
 
-console.log("Hitesh")
+console.log ( 3 
+    +
+    3) // code readability should be high
+  
+console.log("Jawahir")
 
-let name = "hitesh"
+let name = "Jawahir"
 let age = 18
 let isLoggedIn = false
-let state;
+let state = null
 
-// number => to power 53
-// bigint 
+
+// number => 2 power 53
+// bigint
 // string => ""
 // boolean => true/false
 // null => standalone value
 // undefined =>
-// symbol => unique
+// symobl => unique
 
 
-// Object
+// object
 
-console.log(typeof undefined); //undefined
-console.log(typeof null); //object
+console.log(typeof undefined); // undefined
+console.log(typeof null); // object
+
+
 
 
 
